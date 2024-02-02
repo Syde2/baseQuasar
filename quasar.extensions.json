@@ -1,0 +1,8 @@
+{
+  "my-starter-kit": {
+    "serviceA": true,
+    "serviceB": true,
+    "productName": "MyProduct",
+    "publishService": true
+  }
+}
